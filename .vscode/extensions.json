@@ -61,6 +61,16 @@
     // Visual Studio IntelliCode
     "visualstudioexptteam.vscodeintellicode",
     // VSCode Great Icons
-    "emmanuelbeziat.vscode-great-icons"
+    "emmanuelbeziat.vscode-great-icons",
+    // un journal au quotiden dans vscode
+    "pajoma.vscode-journal",
+    // affichage des journaux
+    "gruntfuggly.vscode-journal-view",
+    // Vue.js support
+    "octref.vetur",
+    // mermaid support un vscode
+    "bierner.markdown-mermaid",
+    // mermaind coloration syntaxique
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting"
   ]
 }
