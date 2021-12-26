@@ -20,6 +20,10 @@
     "dbaeumer.vscode-eslint",
     // French Language Pack for VS Code
     "ms-ceintl.vscode-language-pack-fr",
+    // correction orthographique
+    "streetsidesoftware.code-spell-checker",
+    // correction orthographique fr
+    "streetsidesoftware.code-spell-checker-french",
     // GitHub
     "knisterpeter.vscode-github",
     // GitHub Pull Requests and Issues"
